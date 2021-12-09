@@ -1,1 +1,1 @@
-# reminder
+# Quick daily reminder
